@@ -1,7 +1,15 @@
 
 td, th {
-    border: 1px solid #c4c4c4;
-
-
+    border: 1px solid grey;
+}
+ul {
+    color: blue;
 }
 
+tbody tr td:last-child {
+    color: yellow;
+}
+
+[colspan='2']{
+    color: red;
+}
