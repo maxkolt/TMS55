@@ -1,7 +1,9 @@
 .grid {
     display: grid;
     grid-template-columns: 400px 400px 100px 100px;
-    grid-template-rows: ;
+    grid-template-rows: 25px 25px 70px 90px 25px 70px;
+    grid-column-gap: 1px;
+    grid-row-gap: 1px;
 }
 
 .grid div {
@@ -17,3 +19,8 @@
     border: 2px solid grey;
 
 }*/
+
+.valeriy {
+
+
+}
