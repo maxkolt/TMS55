@@ -16,16 +16,23 @@
 }
 
 .grid div:nth-child(9) {
-    text-align: center;
     color: red;
     grid-column: 1 / 3;
 }
 
 .grid div:nth-child(20) {
-    text-align: center;
     color: red;
     grid-column: 1 / 3;
 }
-.center {
-    padding-top: 20px;
+
+ul {
+    color: blue;
+}
+
+.coler {
+    color: yellow;
+}
+
+.centur {
+    text-align: center;
 }
